@@ -7,7 +7,7 @@ function myFunction(x) {
     }
 }
   
-var x = window.matchMedia("(max-width: 375px)")
+var x = window.matchMedia("(max-width: 480px)")
 
 myFunction(x);
 
